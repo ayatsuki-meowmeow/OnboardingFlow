@@ -2,8 +2,6 @@
 //  OnboardingFlowUITests.swift
 //  OnboardingFlowUITests
 //
-//  Created by 河野礼嗣 on 2024/12/08.
-//
 
 import XCTest
 

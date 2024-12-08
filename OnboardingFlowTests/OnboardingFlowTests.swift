@@ -2,8 +2,6 @@
 //  OnboardingFlowTests.swift
 //  OnboardingFlowTests
 //
-//  Created by 河野礼嗣 on 2024/12/08.
-//
 
 import Testing
 @testable import OnboardingFlow
