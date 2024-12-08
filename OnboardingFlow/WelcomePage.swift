@@ -20,6 +20,9 @@ struct WelcomePage: View {
                 .font(.title)
                 .fontWeight(.bold)
                 .fontDesign(.serif)
+                .padding(Edge.Set.top)
+                .padding(Edge.Set.all)
+                .padding(Edge.Set.bottom)
                 .border(.black, width: 1.5)
             
             Text("これは勉強用に作っているアプリです。Swiftのチュートリアルを進めています。")
