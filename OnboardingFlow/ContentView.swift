@@ -24,6 +24,8 @@ struct ContentView: View {
         .tabViewStyle(
             PageTabViewStyle.page
         )
+//        styleを定義していない全てのsubviewに適用される
+        .foregroundStyle(Color.white)
     }
 }
 

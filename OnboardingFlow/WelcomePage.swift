@@ -7,7 +7,7 @@ import SwiftUI
 
 struct WelcomePage: View {
     var body: some View {
-        VStack {
+        VStack(spacing: 15) {
             ZStack {
                 RoundedRectangle(cornerRadius: 30)
                     .frame(
